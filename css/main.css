@@ -1,0 +1,16 @@
+
+body{
+   background-color: brown;
+}
+.dead{
+   text-align: center;
+}
+.bear{
+   border: 1px solid black;
+}
+ul{
+   list-style: none;
+}
+.link{
+   text-decoration: none;
+}
